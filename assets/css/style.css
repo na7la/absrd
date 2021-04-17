@@ -43,6 +43,7 @@ C. Components
 A. Basic Styling
 ***********************************************************************************************************************/
 
+
 body, html {
     height: 100%;
     font-family: 'Schoolbell', cursive;
@@ -51,6 +52,7 @@ body, html {
     position: relative;
     margin-right: 0 !important;
     margin: 0;
+    
 }
 
 a {
@@ -421,6 +423,7 @@ C. Components
 
 .count-down {
     margin-bottom: 3.75rem;
+   
 }
 
 .count-down .countdown-row {
@@ -912,5 +915,6 @@ form .status i {
         vertical-align: middle;
         content: " ";
         height: 100%;
+        font-size: .875rem
     }
 }
